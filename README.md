@@ -1,7 +1,7 @@
 # AI-1BM19CS077
 AI Lab Questions :
 
-1.Implement Tic – Tac – Toe Game
+1.Implement Tic – Tac – Toe Game\n
 2.Solve 8 puzzle problem
 3.Implement Iterative deepening search algorithm
 4.Implement A* search algorithm
